@@ -10,6 +10,7 @@
 # Next languages and technologies, which used in the task:
 
 • Python (Django)
+
 • Websockets
 
 ## Setup
