@@ -7,7 +7,7 @@
 # Additional technical requirements
 1. Communication between second and third component is done via websocket.
 
-#Next languages and technologies, which used in the task:
+# Next languages and technologies, which used in the task:
 
 • Python (Django)
 • Websockets
